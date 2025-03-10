@@ -1,5 +1,8 @@
 **Finance, Supply Chain & Market Analytics**
 
+Live Video Presentation: 
+https://www.youtube.com/watch?v=dkMwfMxIkIE
+
 **Overview**
 
 This project focuses on Finance, Supply Chain, and Market Analytics using SQL. The objective is to improve data accessibility, automate repetitive tasks, and enhance data processing efficiency.
